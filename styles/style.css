@@ -1,0 +1,24 @@
+header {
+    background-color: #dddddd;
+    
+}
+
+h1 {
+    background-color: #BFBFBF;
+    text-transform: uppercase;
+    color: #125081;
+}
+h2{
+    font-size: 18px;
+    color: #6a281c;
+    text-transform: uppercase;
+}
+footer {
+    background-color: #1F497D;
+    font-size: 24px;
+    color: white;
+}
+span {
+    font-weight: 600;
+    font-style: italic;
+}
